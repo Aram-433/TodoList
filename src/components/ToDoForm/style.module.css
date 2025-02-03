@@ -1,0 +1,28 @@
+.control {
+  outline: none;
+  border: none;
+  padding: 4px;
+  width: 30%;
+  margin-left: 20px;
+  padding-left: 10px;
+}
+::placeholder {
+  font-style: italic;
+}
+button {
+  padding: 4px 20px;
+  margin-left: 5px;
+  background: white;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.redBorder {
+  outline: none;
+  border: 3px solid brown;
+  padding: 4px;
+  width: 30%;
+  margin-left: 20px;
+  padding-left: 10px;
+}
